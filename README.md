@@ -1,100 +1,71 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CyberHex Technologies</title>
+<!-- Banner Animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=00F7A5&center=true&vCenter=true&width=800&lines=CYBERHEX+TECHNOLOGIES;Security+%7C+Pentest+%7C+TI+Solutions;Protegendo+o+Futuro+com+Tecnologia;Bem-vindo+ao+lado+Hex+da+Tecnologia!" />
+</p>
 
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #0a0a0a url("https://images.unsplash.com/photo-1555861496-0666c8981751") center/cover no-repeat fixed;
-            color: #fff;
-            text-align: center;
-        }
+---
 
-        header {
-            background: rgba(0, 0, 0, 0.7);
-            padding: 30px 10px;
-        }
+<!-- Logo Neon -->
+<p align="center">
+  <img src="https://img.icons8.com/?size=200&id=108784&format=png&color=00ffea" width="150px" />
+</p>
 
-        h1 {
-            font-size: 40px;
-            margin: 0;
-            color: #00eaff;
-            text-shadow: 0 0 10px #00eaff;
-        }
+<h1 align="center">⚡ CyberHex Technologies ⚡</h1>
 
-        p.sub {
-            font-size: 18px;
-            margin-top: 10px;
-            opacity: 0.9;
-        }
+<p align="center">
+  <b>Segurança • Tecnologia • Hacking Ético</b>
+</p>
 
-        .section {
-            margin: 50px auto;
-            width: 90%;
-            max-width: 800px;
-            background: rgba(0, 0, 0, 0.6);
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 0 15px #00eaff55;
-        }
+---
 
-        .btn {
-            display: inline-block;
-            margin: 15px 10px;
-            padding: 12px 25px;
-            border-radius: 8px;
-            background: #00eaff;
-            color: #000;
-            font-weight: bold;
-            text-decoration: none;
-            transition: 0.3s;
-        }
+## 🧩 Sobre nós
+Somos especialistas em:
 
-        .btn:hover {
-            background: #009fb3;
-        }
+✔ Segurança da Informação  
+✔ Pentest & Ethical Hacking  
+✔ Infraestrutura e Redes  
+✔ Desenvolvimento e Automação  
+✔ Soluções de TI para empresas
 
-        footer {
-            margin-top: 60px;
-            padding: 20px;
-            background: rgba(0,0,0,0.5);
-            font-size: 14px;
-        }
-    </style>
-</head>
+---
 
-<body>
+## 🧨 Terminal Hacker Animado
 
-    <header>
-        <h1>CyberHex Technologies</h1>
-        <p class="sub">Segurança da Informação • Tecnologia • Soluções Inteligentes</p>
-    </header>
+---
 
-    <div class="section">
-        <h2>O que fazemos</h2>
-        <p>
-            Atuamos com soluções modernas em segurança da informação, proteção digital, TI, 
-            consultoria, hardening, redes, e estratégias contra ameaças cibernéticas.
-        </p>
-    </div>
+## ⚙️ Tech Stack (com ícones neon)
 
-    <div class="section">
-        <h2>Nossos Serviços</h2>
-        <p>Proteção, performance e tecnologia para empresas.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,js,html,css,github,git,powershell,arduino" />
+</p>
 
-        <a class="btn" href="#">Consultoria</a>
-        <a class="btn" href="#">Cibersegurança</a>
-        <a class="btn" href="#">Infraestrutura</a>
-        <a class="btn" href="#">Redes</a>
-    </div>
+---
 
-    <footer>
-        © 2025 CyberHex Technologies — Todos os direitos reservados.
-    </footer>
+## 💀 Badges Hacker
 
-</body>
-</html>
+<p align="center">
+  <img src="https://img.shields.io/badge/HACKING-00FFEA?style=for-the-badge&logo=kalilinux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SECURITY-111111?style=for-the-badge&logo=metasploit&logoColor=00FFEA"/>
+  <img src="https://img.shields.io/badge/CYBERHEX-TECH-00F7A5?style=for-the-badge"/>
+</p>
+
+---
+
+## 🕶 ASCII Hacker
+
+
+---
+
+## 🚀 Conecte-se
+<p align="center">
+  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram"/></a>
+</p>
+
+---
+
+## 🟩 Final Hacker Touch
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=800&color=00FFEA&center=true&vCenter=true&width=700&lines=Stay+Secure.;Think+Like+a+Hacker.;Bem-vindo+à+CyberHex!" />
+</p>
+
