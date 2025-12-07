@@ -1,55 +1,32 @@
-<!-- Banner ou título principal -->
-<h1 align="center">👾 CyberHex Technologies</h1>
-<h3 align="center">Willian Ferreira — Segurança da Informação & TI</h3>
+<!-- Banner Animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1000&color=00F7A5&center=true&vCenter=true&width=800&lines=CYBERHEX+TECHNOLOGIES;Security+%7C+Pentest+%7C+TI+Solutions;Protegendo+o+Futuro+com+Tecnologia;Bem-vindo+ao+lado+Hex+da+Tecnologia!" />
+</p>
 
 ---
 
-## 🔥 Sobre mim
-Profissional de TI com foco em **Segurança da Informação**, **Infraestrutura**, **Suporte Técnico** e **Sistemas Windows Server**.  
-Apaixonado por tecnologia, inovação e tudo que envolve o mundo **cyber**.
+<!-- Logo Neon -->
+<p align="center">
+  <img src="https://img.icons8.com/?size=200&id=108784&format=png&color=00ffea" width="150px" />
+</p>
 
-🛠️ Proativo • Comunicativo • Organizado  
-💻 Sempre evoluindo e criando soluções
+<h1 align="center">⚡ CyberHex Technologies ⚡</h1>
 
----
-
-## ⚡ Skills & Tecnologias
-### 🔐 Segurança & Redes
-![Security](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackerone)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-
-### 💻 Sistemas & Infraestrutura
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![PowerShell](https://img.shields.io/badge/PowerShell-2E72B8?style=for-the-badge&logo=powershell)
-
-### 🛠️ Ferramentas & Desenvolvimento
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+<p align="center">
+  <b>Segurança • Tecnologia • Hacking Ético</b>
+</p>
 
 ---
 
-## 👨‍💻 Estatísticas
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillianFerreira&layout=compact&theme=tokyonight)
+## 🧩 Sobre nós
+Somos especialistas em:
 
-</div>
-
----
-
-## 🧩 CyberHex Technologies
-Explorando tecnologia, segurança e automação.  
-Construindo conhecimento — um commit por vez.  
+✔ Segurança da Informação  
+✔ Pentest & Ethical Hacking  
+✔ Infraestrutura e Redes  
+✔ Desenvolvimento e Automação  
+✔ Soluções de TI para empresas
 
 ---
 
-## 📫 Contato
-**📧 Email:** *(adicione aqui se quiser)*  
-**💼 LinkedIn:** *(adicione se quiser)*  
-
----
-
-<h3 align="center">⚡ "Tecnologia não é só evolução — é defesa." ⚡</h3>
+## 🧨 Terminal Hacker Animado
